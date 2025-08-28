@@ -8,6 +8,7 @@ const blogs = [
     title: "Getting Started with React",
     description:
       "Learn the basics of React, including components, JSX, and props.",
+    image: "images/bg.jpg",
   },
   {
     id: 2,
