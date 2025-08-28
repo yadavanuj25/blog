@@ -5,7 +5,7 @@ const LandingPage = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100 text-center px-4">
+    <div className="min-h-screen flex flex-col items-center justify-center text-center px-4 bg-[url('/images/bg.jpg')] bg-cover bg-center bg-no-repeat">
       <h1 className="text-4xl font-bold mb-6">Welcome to My Blog</h1>
       <p className="text-lg mb-8 max-w-md">
         Discover the latest insights, tutorials, and tech stories written with
